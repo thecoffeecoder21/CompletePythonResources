@@ -1,6 +1,6 @@
 # CompletePythonResources
 
-![Free Python Books project logo](https://github.com/hecoffeecoder21/CompletePythonResources/free-python-books-logo.jpg)
+![Free Python Books project logo](https://github.com/thecoffeecoder21/CompletePythonResources/free-python-books-logo.jpg)
 
 # Free Python Books
 
