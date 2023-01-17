@@ -1,6 +1,6 @@
 # CompletePythonResources
 
-![Free Python Books project logo](https://github.com/thecoffeecoder21/CompletePythonResources/blob/main/README.md)
+![Free Python Books project logo](https://github.com/thecoffeecoder21/CompletePythonResources/blob/main/free-python-books-logo.jpg)
 
 # Free Python Books
 
@@ -187,12 +187,10 @@ Thanks!
 - [Free Python books - pythonbooks](https://www.pythonbooks.org/free-books/)
 - [Legally Free Python Books List](https://www.pythonkitchen.com/legally-free-python-books-list/)
 
-## License
 
-Each file in this repository is licensed under the [CC BY 4.0 License](/LICENSE).
 
 ## Sponsor this project
 
 <a href="https://www.buymeacoffee.com/amoroso" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-red.png" alt="Buy Me A Coffee" width="220px"></a>
 
-If you find this resource useful and want to sponsor the project you can [buy me a coffee](buymeacoffee.com/thecoffeecoder).
+If you find this resource useful and want to sponsor the project you can [buy me a coffee](https://www.buymeacoffee.com/amoroso).
